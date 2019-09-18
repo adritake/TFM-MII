@@ -25,6 +25,6 @@ Finalmente se han analizado los datos obtenidos y se han sacado conclusiones
 sobre los métodos de desplazamiento analizados; el que ha causado mejor y peor
 experiencia de usuario, el más rápido y el más lento, el más preciso y el menos preciso, etc.
 
-Los resultados del estudio así como el desarrollo del proyecto y el manual de instalación se encuentran en la siguiente [memoria](./Memoria TFM.pdf).
+Los resultados del estudio así como el desarrollo del proyecto y el manual de instalación se encuentran en la siguiente [memoria] (Memoria TFM.pdf).
 
-El proyecto de Unity de la gymkhana es de código libre y se encuentra en el siguiente [repositorio](https://bitbucket.org/adritake/tfm/src/master/)
+El proyecto de Unity de la gymkhana es de código libre y se encuentra en el siguiente [repositorio (https://bitbucket.org/adritake/tfm/src/master/)
